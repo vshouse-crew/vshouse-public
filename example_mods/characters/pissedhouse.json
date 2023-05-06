@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-104
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				-85
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-92
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angydom",
+	"position": [
+		-80,
+		140
+	],
+	"healthicon": "houseangy",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		74,
+		74
+	],
+	"camera_position": [
+		60,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

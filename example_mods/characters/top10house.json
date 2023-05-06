@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-125
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "top10house idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-145
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "top10house left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-125
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "top10house down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-169
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "top10house right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "top10house up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/top10house",
+	"position": [
+		10,
+		260
+	],
+	"healthicon": "house",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		74,
+		74
+	],
+	"camera_position": [
+		60,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 3.6
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "--                      house tutorial week                     --",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "housetutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blueprint",
+			"house",
+			[
+				176,
+				74,
+				74
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

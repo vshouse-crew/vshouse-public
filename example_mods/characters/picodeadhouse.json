@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-73,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				-70,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-73,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picodead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

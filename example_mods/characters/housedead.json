@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				108
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				70
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				70
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zdziwiony_dom",
+	"position": [
+		-90,
+		200
+	],
+	"healthicon": "house",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		74,
+		74
+	],
+	"camera_position": [
+		340,
+		-520
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

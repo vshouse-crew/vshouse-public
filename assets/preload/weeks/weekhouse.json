@@ -1,0 +1,50 @@
+{
+	"storyName": "--                       house main week                        --",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "houseweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Breathe",
+			"house",
+			[
+				176,
+				74,
+				74
+			]
+		],
+		[
+			"District",
+			"house",
+			[
+				176,
+				74,
+				74
+			]
+		],
+		[
+			"Dispute",
+			"houseangy",
+			[
+				176,
+				74,
+				74
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "main-week",
+	"hiddenUntilUnlocked": false
+}

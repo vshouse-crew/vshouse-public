@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Pick",
+			"indices": [],
+			"name": "pick"
+		},
+		{
+			"offsets": [
+				18,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Swing",
+			"indices": [],
+			"name": "swing"
+		},
+		{
+			"offsets": [
+				-32,
+				255
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "Throw",
+			"indices": [],
+			"name": "throw"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rzucaniedom",
+	"position": [
+		-50,
+		240
+	],
+	"healthicon": "housefury",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		74,
+		74
+	],
+	"camera_position": [
+		60,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

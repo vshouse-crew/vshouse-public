@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RunningStage.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RunningStage0000" x="0" y="0" width="4582" height="1684" frameX="-2275" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0001" x="0" y="1684" width="4582" height="1684" frameX="-2118" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0002" x="0" y="1684" width="4582" height="1684" frameX="-1960" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0003" x="0" y="1684" width="4582" height="1684" frameX="-1801" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0004" x="0" y="3368" width="4582" height="1684" frameX="-1641" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0005" x="0" y="1684" width="4582" height="1684" frameX="-1480" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0006" x="0" y="1684" width="4582" height="1684" frameX="-1317" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0007" x="0" y="1684" width="4582" height="1684" frameX="-1154" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0008" x="0" y="1684" width="4582" height="1684" frameX="-991" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0009" x="0" y="1684" width="4582" height="1684" frameX="-826" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0010" x="0" y="1684" width="4582" height="1684" frameX="-661" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0011" x="0" y="1684" width="4582" height="1684" frameX="-496" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0012" x="0" y="1684" width="4582" height="1684" frameX="-331" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0013" x="0" y="1684" width="4582" height="1684" frameX="-165" frameY="0" frameWidth="6857" frameHeight="1684"/>
+	<SubTexture name="RunningStage0014" x="0" y="5052" width="4581" height="1684" frameX="0" frameY="0" frameWidth="6857" frameHeight="1684"/>
+</TextureAtlas>
