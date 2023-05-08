@@ -111,11 +111,11 @@ var colorenter:FlxTween;
 				}
 				addSong(song[0], i, song[1], FlxColor.fromRGB(colors[0], colors[1], colors[2]));
 			}
+			if(Saves.renovationLock == 'unlocked')
+				{
 			addSong('Breathe', 0, 'house', -5223862);
 			addSong('District', 0, 'house', -5223862);
 			addSong('Dispute', 0, 'houseangy', -5223862);
-			if(Saves.renovationLock == 'unlocked')
-				{
 				addSong('Renovation', 0, 'housefury', -5223862);
 				addSong('Swatting', 0, 'pico', FlxColor.fromRGB(186, 233, 75));
 				addSong('My-lawn', 0, 'house', -5223862);

@@ -3113,7 +3113,7 @@ else if(SONG.song == 'renovation' && songMisses < 6)
 			{
 				GameOverSubstate.characterName = 'bf-deaddom';
 			}
-			if(SONG.player1 == 'pico' || SONG.player1 == 'pico-player-dom' || SONG.player1 == 'DistrictPico')
+			if(SONG.player1 == 'pico-player' || SONG.player1 == 'pico-player-dom' || SONG.player1 == 'DistrictPico')
 				{
 					GameOverSubstate.deathSoundName = 'fnf_pico';
 				}
