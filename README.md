@@ -1,20 +1,17 @@
-![logoHouse](https://user-images.githubusercontent.com/38379400/226631981-69030ac9-1c7b-49de-85ce-beb36489f278.png)
+![bumpinlogoo](https://github.com/vshouse-crew/vshouse-public/assets/38379400/76c96faa-5f32-45ab-b472-a55bb7858fb1)
 
-# Welcome to the VS House Public Repo!
-This is the only official "VS House Public Github Repository"™
+# Welcome to the VS House Public Repository!
 
-If you want to use any of the code from here, credit us and ShadowMario (Creator of Psych Engine - the engine we used to make this mod, more information about it down below).
+If you want to use any of the code from here, credit us and ShadowMario (Creator of the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - the engine we used to make this mod, more information about it down below).
 
-If you're looking for FLPS and chromatic scales, they are all in the "art" folder.
+If you're looking for the FLPS and chromatic scales, click [here](https://github.com/vshouse-crew/vshouse-public/tree/main/art/chroms%20and%20flps).
 
 Have fun!
 
-(the trademark was a joke us goverment please dont kill us)
-
 ![houseshit](https://user-images.githubusercontent.com/38379400/226633450-288012f5-a415-40c5-9f2c-37d72b20efc1.png)
 
-# Do this if you can't compile the source code!
-Paste it into a command line if you're experiencing errors while compiling:
+### Do this if you can't compile the source code!
+Paste this into your command line if you're experiencing errors while compiling:
 
 haxelib remove flixel
 
@@ -31,6 +28,8 @@ haxelib install flixel-ui 2.4.0
 haxelib remove hxCodec
 
 haxelib install hxCodec 2.5.1
+
+The reason why some errors may occur is because VS House was built using older versions of [Haxe](https://haxe.org/) libraries, download them and you should be fine.
 
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
