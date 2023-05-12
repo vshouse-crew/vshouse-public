@@ -13,21 +13,16 @@ Have fun!
 ### Do this if you can't compile the source code!
 Paste this into your command line if you're experiencing errors while compiling:
 
+```
 haxelib remove flixel
-
 haxelib install flixel 4.11.0
-
 haxelib remove flixel-addons
-
 haxelib install flixel-addons 2.11.0
-
 haxelib remove flixel-ui
-
 haxelib install flixel-ui 2.4.0
-
 haxelib remove hxCodec
-
 haxelib install hxCodec 2.5.1
+```
 
 The reason why some errors may occur is because VS House was built using older versions of [Haxe](https://haxe.org/) libraries, download them and you should be fine.
 
