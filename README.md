@@ -1,8 +1,27 @@
-![bumpinlogoo](https://github.com/vshouse-crew/vshouse-public/assets/38379400/76c96faa-5f32-45ab-b472-a55bb7858fb1)
+<p align="center">
+  <img src="https://github.com/vshouse-crew/vshouse-public/assets/38379400/76c96faa-5f32-45ab-b472-a55bb7858fb1" alt="animated" />
+</p>
 
 # Welcome to the VS House Public Repository!
 
-If you want to use any of the code from here, credit us and ShadowMario (Creator of the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - the engine we used to make this mod, more information about it down below).
+The mod has many additions to the base [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - the engine we used to make this mod, more information about it down below such as...
+
+- An OST tab
+
+![](https://github.com/vshouse-crew/vshouse-public/assets/38379400/fe61ca4b-3522-4e1b-8792-28754f801d3f)
+
+- A gallery
+
+![](https://github.com/vshouse-crew/vshouse-public/assets/38379400/cb9c8c50-288d-4f23-985b-c772852286ae)
+
+- A character selector (custom loading screen can be seen here too hehe)
+
+![](https://github.com/vshouse-crew/vshouse-public/assets/38379400/21ce23ac-1974-4122-a3a8-875a81c6ca3f)
+
+And many more!
+
+
+If you want to use any of the code from here, credit us and ShadowMario (The creator of the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine))
 
 If you're looking for the FLPS and chromatic scales, click [here](https://github.com/vshouse-crew/vshouse-public/tree/main/art/chroms%20and%20flps).
 
@@ -13,23 +32,16 @@ Have fun!
 ### Do this if you can't compile the source code!
 Paste this into your command line if you're experiencing errors while compiling:
 
-haxelib remove flixel
+```
+haxelib set flixel 4.11.0
+haxelib set flixel-addons 2.11.0
+haxelib set flixel-ui 2.4.0
+haxelib set hxCodec 2.5.1
+```
 
-haxelib install flixel 4.11.0
+The reason why some errors may occur is that VS House was built using older versions of [Haxe](https://haxe.org/) libraries, download them and you should be fine (the commands listed above will work only if you downloaded those libraries before). The new update will probably use the new version of Psych Engine, so the new libraries can be found [here](https://github.com/ShadowMario/FNF-PsychEngine/wiki/Libraries-versions).
+(the update will never release btw the mod is dead)
 
-haxelib remove flixel-addons
-
-haxelib install flixel-addons 2.11.0
-
-haxelib remove flixel-ui
-
-haxelib install flixel-ui 2.4.0
-
-haxelib remove hxCodec
-
-haxelib install hxCodec 2.5.1
-
-The reason why some errors may occur is because VS House was built using older versions of [Haxe](https://haxe.org/) libraries, download them and you should be fine.
 
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
