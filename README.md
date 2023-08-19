@@ -4,7 +4,7 @@
 
 # Welcome to the VS House Public Repository!
 
-The mod has many additions to the base [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - the engine we used to make this mod, more information about it down below such as...
+The mod has many additions to the base [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) such as...
 
 - An OST tab
 
