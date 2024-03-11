@@ -39,8 +39,8 @@ haxelib set flixel-ui 2.4.0
 haxelib set hxCodec 2.5.1
 ```
 
-The reason why some errors may occur is that VS House was built using older versions of [Haxe](https://haxe.org/) libraries, download them and you should be fine (the commands listed above will work only if you downloaded those libraries before). The new update will probably use the new version of Psych Engine, so the new libraries can be found [here](https://github.com/ShadowMario/FNF-PsychEngine/wiki/Libraries-versions).
-(the update will never release btw the mod is dead)
+The reason why some errors may occur is that VS House was built using older versions of [Haxe](https://haxe.org/) libraries, download them and you should be fine (the commands listed above will work only if you downloaded those libraries before). ~~The new update will probably use the new version of Psych Engine, so the new libraries can be found [here](https://github.com/ShadowMario/FNF-PsychEngine/wiki/Libraries-versions).
+(the update will never release btw the mod is dead)~~ nvm we're doing something much cooler :3 
 
 
 # Friday Night Funkin' - Psych Engine
